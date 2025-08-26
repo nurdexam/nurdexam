@@ -1,7 +1,7 @@
 <!-- Hacker/Cyberpunk Profile README for GitHub -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Hello%2C+World!;I+am+Nurdevtech;Full‑stack+Developer;Next.js+%7C+Supabase+%7C+TypeScript;Welcome+to+my+Matrix" alt="Typing" />
+  Nurbol Zhexenbiev
 </h1>
 
 <p align="center">
@@ -23,9 +23,8 @@
 
 ```bash
 > whoami
-user:    nurdevtech
-role:    full-stack developer
-philosophy: less stack, more elegance
+user:    nurdexam
+role:    full-stack web-application developer & cybersecurity pentester
 focus:   building intuitive, performant, secure systems
 motto:   build. break. learn. repeat.
 locale:  KZ
@@ -34,7 +33,7 @@ locale:  KZ
 ### 🧰 Core Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,supabase,tailwind,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,nodejs,postgres,supabase,tailwind,git,linux,vscode,wireshark,firebase" />
 </p>
 
 ### 🧪 Current Focus
@@ -47,17 +46,9 @@ locale:  KZ
 
 ### 📦 Featured Projects
 
-* **Hybrid Messenger**
+* **14-alfarabi**
   Real‑time groups, members, roles, WhatsApp‑style UI, dark mode, Zoom calls.
   `Next.js • Supabase • Tailwind • shadcn/ui • Realtime`
-
-* **WebAI Page**
-  Multilingual, animated landing with Aurora/MetaBalls/SplitText/IconCloud.
-  `Next.js • i18n • Framer Motion`
-
-* **Documents Hub**
-  Filters, tags, nested documents, beautiful detail page.
-  `Next.js • Supabase • Tailwind`
 
 ---
 
@@ -121,9 +112,9 @@ create table if not exists groups (
 ### 🎛️ Connect
 
 <p align="center">
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-00A8E8?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-FF0050?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/nurdexam"><img src="https://img.shields.io/badge/Telegram-00A8E8?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@nurdevtech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="mailto:viltia40@gmail.com"><img src="https://img.shields.io/badge/Email-FF0050?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -144,6 +135,3 @@ PS1='\[\e[38;5;46m\]┌─(\[\e[0m\]\u@\h\[\e[38;5;46m\])-[\w]\n└─$ \[\e[0m\
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
-  <sub>⚡ Theme: cyberpunk / neon green. Minimal but powerful stack. Edit links, usernames, and keys to make it yours.</sub>
-</p>
