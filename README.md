@@ -46,8 +46,17 @@ locale:  KZ
 
 ### 📦 Featured Projects
 
-* **14-alfarabi**
-  Real‑time groups, members, roles, WhatsApp‑style UI, dark mode, Zoom calls.
+* **14-alfarabi** is a modern educational digital platform for schools that combines artificial intelligence, management of educational data, and thoughtful UX/UI design.At the core of the platform is WebAI - an intelligent system that analyzes student progress, helps create individualized study plans, and provides access to materials in Kazakh, Russian, and English.
+
+* In addition, 14-Alfarabi includes:
+* 📩 an integrated messenger and AI-based chatbot
+* 🎥 video conferencing with QR invitation support
+* 👥 a system of roles and user profiles
+* 📝 quiz modules and testing
+* 📂 a document storage with easy access to materials
+* 📰 a news section
+* 🤖 an integrated AI profile editor and intelligent assistants
+* Thus, the platform brings together everything necessary for an effective and modern educational process.
   `Next.js • Supabase • Tailwind • shadcn/ui • Realtime`
 
 ---
