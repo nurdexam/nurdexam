@@ -33,7 +33,7 @@ locale:  KZ
 ### 🧰 Core Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,nodejs,postgres,supabase,tailwind,git,linux,vscode,wireshark,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,nodejs,postgres,supabase,tailwind,git,linux,vscode,firebase" />
 </p>
 
 ### 🧪 Current Focus
@@ -113,7 +113,7 @@ create table if not exists groups (
 
 <p align="center">
   <a href="https://t.me/nurdexam"><img src="https://img.shields.io/badge/Telegram-00A8E8?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@nurdevtech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@nurdevtech"><img src="https://img.shields.io/badge/Youtube-FF0050?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="mailto:viltia40@gmail.com"><img src="https://img.shields.io/badge/Email-FF0050?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
