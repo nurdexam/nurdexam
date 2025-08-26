@@ -28,6 +28,10 @@ motto:   build. break. learn. repeat.
 locale:  KZ
 ```
 
+### 🎶 Мой плейлист
+[Слушать на Spotify](https://open.spotify.com/playlist/5gYZ7fKVVpzYYxV5XblEIk?si=0285f5f9c77c44a8)
+
+---
 ### 🧰 Core Tools
 
 <p align="center">
