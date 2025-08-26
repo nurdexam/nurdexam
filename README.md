@@ -94,18 +94,6 @@ locale:  KZ
 
 ---
 
-<details>
-<summary><b>🧬 Easter Egg</b></summary>
-
-```bash
-# generate neon prompt
-PS1='\[\e[38;5;46m\]┌─(\[\e[0m\]\u@\h\[\e[38;5;46m\])-[\w]\n└─$ \[\e[0m\]'
-```
-
-</details>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
