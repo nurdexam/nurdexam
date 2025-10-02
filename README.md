@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/OS-Linux-00FF9C?style=for-the-badge&logo=linux&logoColor=111" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OS-Linux-00FF9C?style=for-the-badge&logo=Windows&logoColor=111" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Editor-VS%20Code-00FF9C?style=for-the-badge&logo=visualstudiocode&logoColor=111" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Elegant%20Code%20%26%20Clean%20UI-00FF9C?style=for-the-badge" /></a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=nurdevtech&style=for-the-badge&color=00FF9C&label=VISITORS" /></a>
